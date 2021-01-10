@@ -1,0 +1,24 @@
+*
+P{
+  
+   font-style:bold, oblique;
+   text-align: center;
+   font-size: 1000% ; 
+   color:transparent;
+   -webkit-background-clip:text ;
+   
+   display: flex;
+   flex-direction: column;
+   transition: 2s;
+}
+
+p:hover{
+   font-style:bold, oblique;
+   text-align: center;
+   font-size: 1000% ; 
+   color:transparent;
+   background-image:url("https://c4.wallpaperflare.com/wallpaper/854/327/708/background-sequins-golden-gold-wallpaper-preview.jpg") ;
+   -webkit-background-clip:text ;
+   transform: translateY(-1rem) rotate(10deg);
+   
+}
